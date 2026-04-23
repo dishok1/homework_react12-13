@@ -1,0 +1,24 @@
+{
+  "todos": [],
+  "auth": {
+    "isLogged": true,
+    "currentUser": {
+      "name": "Dima",
+      "email": "dimdish4@gmail.com",
+      "id": "EiB1Lml1f24"
+    }
+  },
+  "users": [
+    {
+      "id": "1",
+      "email": "test@test.com",
+      "name": "Dima"
+    },
+    {
+      "name": "Dima",
+      "email": "dimdish4@gmail.com",
+      "id": "EiB1Lml1f24"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
